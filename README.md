@@ -12,6 +12,7 @@
 [![Hackster](https://img.shields.io/badge/Hackster.io-Featured-00979D?logo=hackster)](https://www.hackster.io/makepkg/securegen-open-source-totp-authenticator-password-manager-c350d6)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Blog-0A0A0A?logo=dev.to)](https://dev.to/makepkg)
 [![Product Hunt](https://img.shields.io/badge/Product_Hunt-Launched-DA552F?logo=producthunt&logoColor=white)](https://www.producthunt.com/products/securegen-2)
+[![Flash Online](https://img.shields.io/badge/Flash-Online-brightgreen?logo=espressif)](https://makepkg.github.io/SecureGen/flash)
 
 [Video Demo](#-video-demo) • [Features](#-key-features) • [Installation](#-quick-start) • [Documentation](#-documentation) • [Security](#-security) • [Support](#-support)
 
@@ -188,6 +189,11 @@ Wake from sleep: press Button 2.
 - LILYGO® TTGO T-Display ESP32
 - USB-C cable
 
+### ⚡ No tools? Flash from browser
+[**→ Web Flasher**](https://makepkg.github.io/SecureGen/flash) — Chrome/Edge + USB, no install needed  
+[**→ User Guide**](https://makepkg.github.io/SecureGen/guide)  
+[**→ Decrypt Export Tool**](https://makepkg.github.io/SecureGen/tools)
+
 ### Install
 
 ```bash
@@ -226,7 +232,6 @@ cd SecureGen
 
 - Quick search by account name, favorites / pinned accounts, grouping by tags (work, personal, finance)
 - RTC module support for offline timekeeping without NTP
-- Project website + web-based flasher + online editor
 - Multilingual support (English, Russian, Ukrainian, Chinese, German)
 - Adapt firmware for other ESP32 boards
 - Informative setting flags in web cabinet
